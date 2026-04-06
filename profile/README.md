@@ -21,7 +21,7 @@ Este espacio está diseñado para que todos lxs coders compartan, colaboren y ap
 
 ---
 
-## 🧑‍💻 Comunidad
+## 💙 Comunidad
 Este espacio es de **todos los miembros de la P2**: comparte tu conocimiento, ayuda a otros y mantén un ambiente colaborativo y respetuoso.
 
 > “El todo es más que la suma de las partes” 🌼  
